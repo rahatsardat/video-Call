@@ -1,0 +1,8 @@
+{
+  "name": "WebRTC Video Chat",
+  "description": "A real-time, multi-participant video and text chat application using WebRTC for peer-to-peer communication and WebSockets for signaling. Join a room and connect with others.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
